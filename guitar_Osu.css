@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;}
+
+body h2{
+    color: black;
+    text-align: center;}
+
+body h3{color: rgb(0, 0, 0);}
+
+header{
+    background-color: rgba(40, 150, 131, 0.986);
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    text-align: center;}
+
+header h2{color: white;}
+
+img{
+    width: 700;}
+
+.img2{
+    width: 500;
+    height: auto;}
+
+.container{
+    display: flex;
+    max-width: 1000;
+    margin: auto;
+    gap: 30:}
+
+.container h2{text-align: left;}
+
+.container h1{text-align: center;}
+
+.cool p{text-align: center;}
+
+aside{
+    width: 750;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;}
+
+aside h2{color: rgb(17, 74, 180);}
+
+ul li{font-size: 30px;}
+
+table{border-collapse: collapse;}
+
+table th,
+table td{padding: 15px 15px;}
+
+th{background-color: rgb(176, 221, 134);}
+
+.d{
+    background-color: rgb(223, 138, 211);
+    color: rgb(0, 0, 0);}
+
+main{
+    background-color: rgb(141, 23, 102);
+    width: 250;
+    background-color: white;
+    padding: 30:}
+
+.guitar3{
+    width: 250;
+    height: 250;
+}
+
+footer{
+    background-color: rgb(10, 9, 9);
+    padding: 1%;
+    text-align: center;
+    background: 20%;
+    }
